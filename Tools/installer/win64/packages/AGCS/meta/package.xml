@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>AGCS</DisplayName>
+    <Description>AdlanPaya Ground Control Station</Description>
+    <Version>1.4.0</Version>
+    <ReleaseDate>2021-07-23</ReleaseDate>
+    <Default>true</Default>
+    <Licenses> <License name="AdlanPaya License Agreement" file="license.txt"/> </Licenses>
+    <Script>installscript.qs</Script>
+</Package>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>AGCS</Name>
+    <Title>AGCS</Title>
+    <Version>1.4.0</Version>
+    <StartMenuDir>AGCS</StartMenuDir>
+    <Publisher>AdlanPaya Technology Co.</Publisher>
+    <TargetDir>@ApplicationsDirX86@/AdlanPaya Product/AGCS</TargetDir>
+    <MaintenanceToolName>AGCSMaintenanceTool</MaintenanceToolName>
+</Installer>

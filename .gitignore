@@ -1,0 +1,4 @@
+AGCS.pro.*
+build/
+.DS_Store
+*.autosave

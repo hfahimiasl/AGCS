@@ -1,0 +1,12 @@
+{
+    "Provider": "AdlanPaya",
+    "Version": 100,
+    "Vendor": "AdlanPaya",
+    "Copyright": "(C) 2021 AdlanPaya",
+    "Experimental": false,
+    "Features": [
+        "OnlineMappingFeature",
+        "OnlineGeocodingFeature",
+        "ReverseGeocodingFeature"
+    ]
+}

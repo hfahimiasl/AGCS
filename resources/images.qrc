@@ -1,0 +1,55 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/aircraft/fixed wing.svg</file>
+        <file>images/aircraft/flying wing.svg</file>
+        <file>images/aircraft/general.svg</file>
+        <file>images/aircraft/Hexa+.svg</file>
+        <file>images/aircraft/HexaX.svg</file>
+        <file>images/aircraft/Octa+.svg</file>
+        <file>images/aircraft/OctaX.svg</file>
+        <file>images/aircraft/Quad+.svg</file>
+        <file>images/aircraft/QuadX.svg</file>
+        <file>images/aircraft/Y6.svg</file>
+        <file>images/map/fixed_wing_mark.svg</file>
+        <file>images/map/flying_wing_mark.svg</file>
+        <file>images/map/helicopter_mark.svg</file>
+        <file>images/map/quadcopter_mark.svg</file>
+        <file>images/map/unknown_mark.svg</file>
+        <file>images/logo-48.png</file>
+        <file>images/logo-64.png</file>
+        <file>images/logo-128.png</file>
+        <file>images/logo-256.png</file>
+        <file>images/logo-512.png</file>
+        <file>images/splash.png</file>
+        <file>images/modules/compass.svg</file>
+        <file>images/modules/flight restriction.svg</file>
+        <file>images/modules/IMU.svg</file>
+        <file>images/aircraft/QuadX-coax.svg</file>
+        <file>images/other/UserProfileIcone.png</file>
+        <file>images/calibration/gray/ACC-BACK.svg</file>
+        <file>images/calibration/gray/ACC-LEFT.svg</file>
+        <file>images/calibration/gray/ACC-LEVEL.svg</file>
+        <file>images/calibration/gray/ACC-NOSEDOWN.svg</file>
+        <file>images/calibration/gray/ACC-NOSEUP.svg</file>
+        <file>images/calibration/gray/ACC-RIGHT.svg</file>
+        <file>images/calibration/gray/COMPASS.svg</file>
+        <file>images/calibration/green/ACC-BACK.svg</file>
+        <file>images/calibration/green/ACC-LEFT.svg</file>
+        <file>images/calibration/green/ACC-LEVEL.svg</file>
+        <file>images/calibration/green/ACC-NOSEDOWN.svg</file>
+        <file>images/calibration/green/ACC-NOSEUP.svg</file>
+        <file>images/calibration/green/ACC-RIGHT.svg</file>
+        <file>images/calibration/green/COMPASS.svg</file>
+        <file>images/map/home/Home-Light.png</file>
+        <file>images/map/home/Home-Dark.png</file>
+        <file>images/support/plan/base.svg</file>
+        <file>images/support/plan/bronze.svg</file>
+        <file>images/support/plan/silver.svg</file>
+        <file>images/support/plan/palladium.svg</file>
+        <file>images/support/plan/gold.svg</file>
+        <file>images/support/guide.svg</file>
+        <file>images/support/ticket.svg</file>
+        <file>images/support/Send-Message.png</file>
+        <file>images/other/exit.png</file>
+    </qresource>
+</RCC>

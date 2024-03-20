@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Param">
+        <file alias="arduplane.params.metadata.xml">arduplane.params.metadata.xml</file>
+        <file alias="arducopter.params.metadata.xml">arducopter.params.metadata.xml</file>
+    </qresource>
+</RCC>

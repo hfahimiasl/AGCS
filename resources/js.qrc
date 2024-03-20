@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>js/MaterialDesign.js</file>
+        <file>js/Js.js</file>
+    </qresource>
+</RCC>
